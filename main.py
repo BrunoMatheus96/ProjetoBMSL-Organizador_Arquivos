@@ -6,4 +6,4 @@ if __name__ == "__main__":
 
     # zipar_pdf_das_pastas()  # Função para mover arquivos, criar pasta, zipar
     # mover_xlsx()  # Função para mover o arquivo .xlsx para a pasta Output
-    upload_sharepoint()  # Função de upload para SharePoint
+    upload_cloud()  # Função de upload para cloudupload_cloud
